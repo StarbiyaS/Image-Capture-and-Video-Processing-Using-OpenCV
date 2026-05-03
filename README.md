@@ -43,7 +43,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name:** STARBIYA s
+**Name:** STARBIYA S
 
 ### Register No:
 212223040208
